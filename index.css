@@ -1,0 +1,9 @@
+.card{
+    background-image: linear-gradient(to bottom right,lightgrey,pink,lightblue);
+    border: solid pink 5px !important;
+    border-radius: 50% !important;
+}
+.card-body{
+    font-size: 20px;
+    font-weight:bold;
+}
